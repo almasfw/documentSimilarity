@@ -1,0 +1,8 @@
+Sistem Pendukung Keputusan Pengalokasian Spare Part
+Rita Wiryasaputra, Sri Hartati
+
+Abstrak
+Era informasi yang semakin berkembang mempengaruhi lingkungan bisnis. Pengaruhnya dapat dilihat pada proses pengambilan keputusan. Proses pengambilan keputusan terhadap sejumlah alternatif dan sejumlah tujuan diselesaikan dengan sebuah sistem. Sistem yang bermodelkan Multi Attribute Decision Making (MADM) dan Multi Objective Decision Making (MODM). Model MODM digunakan untuk menyelesaikan perancangan alternatif terbaik dan model MADM digunakan untuk menyelesaikan penyeleksian terhadap beberapa alternatif dalam jumlah yang terbatas. Salah satu pendekatan model MADM adalah TOPSIS (Technique for Order Preference by Similarity to Ideal Solution). Konsep utama TOPSIS adalah alternatif preferensi terbaik memiliki jarak terpendek dari solusi ideal positif dan memiliki jarak terjauh dari solusi ideal negatif. Hasil metode TOPSIS adalah perankingan terhadap sejumlah alternatif. Salah satu masukan dari metode TOPSIS adalah nilai pembobotan kriteria. Nilai pembobotan kriteria dapat diberikan secara langsung oleh pengambil keputusan atau dihitung melalui sebuah metode. Penelitian akan menghitung nilai pembobotan kriteria dengan metode Entropy. Tujuannya adalah untuk memberikan objektifitas pembobotan kriteria. Penelitian mengangkat kasus tentang pengalokasian spare part ke sejumlah store. Alternatif terbaik dengan sumber daya yang terbatas, beberapa tujuan yang saling bertentangan didekati dengan metode Goal programming. Pengambilan keputusan akan lebih terarah karena sistem menghasilkan perankingan store spare part, dan menampilkan informasi alokasi spare part.
+
+Kata kunci
+Sistem Pendukung Keputusan, Entropy, TOPSIS, Goal Programming

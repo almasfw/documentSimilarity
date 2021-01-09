@@ -1,0 +1,8 @@
+Aplikasi Deteksi Dini Defisiensi Mineral Mikro pada Manusia Berbasis Web
+Nina Sevani, Rheinhard Unwaru
+
+Abstrak
+Kekurangan gizi menjadi salah satu masalah yang dialami oleh masyarakat Indonesia, khususnya defisiensi mineral mikro. Pada dasarnya hal ini dikarenakan kurangnya pemahaman masyarakat akan pentingnya pola konsumsi makanan seimbang serta kemiskinan yang dialami oleh sebagian masyarakat sehingga mereka sulit memenuhi asupan gizi setiap hari dan sulit menemui seorang ahli atau dokter gizi. Hal ini dapat diatasi melalui pembuatan sebuah aplikasi berbasis web yang mampu mendeteksi defisiensi mineral mikro pada manusia secara dini, serta memberikan saran untuk mengatasi defisiensi tersebut. Aplikasi ini menggunakan sekumpulan data sebagai basis pengetahuan yang diperoleh dari studi pustaka dan diskusi dengan pakar gizi. Pengetahuan direpresentasikan dalam bentuk rule-based system dan diolah dengan metode forward chaining. Aplikasi ini dapat diakses dan digunakan oleh pengguna melalui internet. Pembuatan aplikasi ini dapat membantu masyarakat dalam menyadari pentingnya asupan mineral mikro dalam tubuh dan juga mendorong mereka untuk memiliki kebiasaan hidup yang sehat.
+
+Kata kunci
+gizi, mineral, aplikasi web, rule-based, forward chaining.

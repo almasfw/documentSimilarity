@@ -1,0 +1,8 @@
+Sistem Pendukung Keputusan Kelompok Penentuan Kelayakan Lokasi Pemukiman
+Mutammimul Ula, Azhari SN
+
+Abstrak
+Sebagai daerah yang rawan bencana dari tsunami, dan abrasi gelombang laut, dibutuhkan suatu lokasi yang layak untuk dapat dijadikan suatu daerah pemukiman untuk mendukung perkembangan perekonomian, sarana dan prasarana, serta sosial ekonomi di pemerintah kota Lhokseumawe. Oleh sebab itu, diperlukan penentuan kelayakan lokasi pemukiman yang layak untuk direkomendasi menjadi sebuah pemukiman yang akan dibangun. Sehingga perlu dilakukan evaluasi terhadap areal fisik pemukiman, sarana dan prasarana, dan sosial-ekonomi yang akan direkomendasi menjadi suatu lokasi pemukiman. Masukan dari masyarakat sangat dibutuhkan untuk mengetahui masalah lokasi yang akan direkomendasi menjadi sebuah pemukiman. Hal ini dilakukan agar pihak pengawas mengetahui dan dapat mengantisipasi masalah-masalah yang terjadi pada lokasi tersebut. Penerapan sistem pendukung keputusan kelompok atau Group Decision Support System (GDSS) yang dibuat menggunakan metode VIKOR (Vlse Kriterijumska Optimizacija Kompromisno Resenje in Serbia) dapat membantu para pengambil keputusan dalam melakukan perankingan nilai masing-masing alternatife solusi, entropy sebagai pembobotannya dari setiap kriteria.. Sementara metode Copeland score, sebagai salah satu metode voting yang tekniknya berdasarkan pengurangan frekwensi kemenangan dengan frekwensi kekalahan dari perbandingan berpasangan untuk melakukan voting terhadap solusi yang akan di ambil para decision maker.
+
+Kata kunci
+GDSS, Vikor, Entropy, Copeland Score, lokasi pemukiman.

@@ -1,0 +1,8 @@
+Sistem Pendukung Keputusan untuk Memilih Budidaya Ikan Air Tawar Menggunakan AF-TOPSIS
+Hence Beedwel Lumentut, Sri Hartati
+
+Abstrak
+Potensi perikanan budidaya air tawar semakin meningkat, hal tersebut disebabkan produksi ikan sektor penangkapan mendekati “overfishing”. Budidaya perikanan air tawar memiliki beberapa alternatif ikan yang memiliki nilai ekonomis tinggi yaitu ikan Mas, ikan Mujair, ikan Nila, ikan Gurame, ikan Lele dan ikan Patin. Alternatif ikan ini memiliki karakteristik yang berbeda untuk masing-masing jenis pembudidayaannya. Parameter-parameter yang mempengaruhi proses budidaya ikan air tawar tersebut diantaranya: faktor kesesuaian air meliputi: suhu, kecerahan, DO (derivater oksigen), keasaman (pH). Sedangkan pemilihan budidaya perikanan yang menguntungkan bisa dinilai dari faktor finansial yaitu: NPV (Net Present Value), ROI (Return on Investment), BCR (Benefit Cost Ratio), PBP (Pay Back Period) dan BEP (Break Event Point). Sedangkan metode yang dipergunakan untuk pengambilan keputusan yaitu Technique for Order Preference by Similarity to Ideal Solution (TOPSIS) sebagai salah satu model decision dapat digunakan untuk memberikan preferensi kepada para petani budidaya ikan, karena alternatif yang terpilih tidak hanya memiliki jarak terpendek dari solusi ideal positif tetapi juga jarak terpanjang dari solusi ideal negatif. Hasil dari penelitian ini menunjukkan bahwa sistem penunjang keputusan yang mempertimbangkan parameter kondisi lingkungan air dan faktor finansial dapat membantu petani budidaya ikan untuk menentukan jenis budidaya ikan air tawar yang akan dijalankan.
+
+Kata kunci
+Ikan air tawar, Analisis Finansial, TOPSIS, SPK.

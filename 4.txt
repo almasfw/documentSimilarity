@@ -1,0 +1,14 @@
+Penerapan FCM dan TSK Untuk Penentuan Cluster
+Rawan Pangan di Kabupaten Cirebon
+Harliana, Azhari SN
+
+Abstrak
+Ketahanan pangan merupakan salah satu prasyarat dasar yang harus dimiliki dalam
+rangka mewujudkan kesejahteraan masyarakat. Namun, pada kenyataannya meskipun
+kabupaten Cirebon termasuk salah satu pensuplai beras wilayah Jawa Barat masih ada
+beberapa desa yang justru mengalami rawan pangan. Minimnya indikator yang digunakan oleh BKP5K Kabupaten Cirebon dalam menentukan status rawan pangan dan tahan pangan masih menjadi kendala dalam penganalisaan penyebab rawan pangan. Penelitian ini mencoba mengembangkan sebuah sistem yang dapat membantu BKP5K Kabupaten Cirebon untuk
+penentuan cluster rawan pangan dan tahan pangan serta macam rekomendasi bantuannya
+melalui parameter indikator ketahanan dan kerawanan pangan yang telah ditentukan. Sistem ini dibangun dengan menggunakan metode Fuzzy C-Means untuk mengelompokkan daerah rawan pangan dan tahan pangan serta metode Takagi Sugeno Kang sebagai rulebase dalam pemberian rekomendasi bantuannya. Setelah melakukan pengujian pada 6 kasus uji, aspek yang paling berpengaruh pada penentuan desa rawan pangan yaitu aspek ketersediaan pangan, aspek akses pangan dan penghidupan, serta aspek kesehatan dan gizi. Sedangkan jumlah penduduk dibawah garis kemiskinan, desa yang tidak memiliki akses penghubung yang memadai, jumlah RT tanpa akses listrik, jumlah areal tanam yang terkena puso, serta jumlah buruh baik buruh tani dan swasta merupakan 5 indikator yang memiliki pengaruh penting dalam penentuan daerah rawan pangan.
+
+Kata kunci
+Fuzzy C-Means, Fuzzy Takagi Sugeno Kang, rawan pangan, cluster

@@ -1,0 +1,8 @@
+Penyusunan Notasi Musik dengan Menggunakan Onset Detection pada Sinyal Audio
+Anindita Suryarasmi, Reza Pulungan
+
+Abstrak
+Notasi musik merupakan dokumentasi tertulis dari sebuah lagu. Walaupun notasi musik telah umum digunakan, namun tidak semua orang yang berkecimpung di dalam dunia musik memahami bagaimana notasi musik dituliskan. Penelitian ini menawarkan penyusunan notasi musik secara otomatis dengan mengimplementasikan metode onset detection. Hal mendasar yang harus diketahui dalam pembuatan notasi musik adalah durasi serta nada yang dimainkan. Dengan menggunakan mendeteksi onset dari data audio, jarak antar pukulan dapat diketahui. Dengan demikian maka durasi permainan pun bisa dihitung. Hasil dari pencarian durasi tersebut diolah kembali untuk menciptakan objek-objek note yang disusun dalam notasi musik. Sistem menghasilkan keluaran berupa file dengan format musicXML. Dengan format ini maka hasil keluaran sistem akan bersifat dinamis dan dapat diolah kembali dengan music editor yang mendukung format file tersebut. Hasil penelitian menunjukkan akurasi yang tinggi dalam pengenalan pola permainan yang berhubungan dengan durasi setiap note hingga mencapai 99,62 persen.
+
+Kata kunci
+notasi musik, onset detection, musicXML

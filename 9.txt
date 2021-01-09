@@ -1,0 +1,8 @@
+Aplikasi Rekomendasi Tempat Makan Menggunakan Algoritma Slope One pada Platform Android
+Dharma Pratama, Seng Hansun
+
+Abstrak
+Makanan adalah salah satu kebutuhan pokok dari manusia. Kebutuhan makanan akan selalu meningkat seiring jumlah penduduk yang selalu meningkat sehingga semakin banyak tempat makan yang bermunculan. Banyaknya tempat makan yang ada menyebabkan kebingungan saat memilih tempat makan. Oleh karena itu, dibutuhkan sebuah aplikasi untuk memberikan rekomendasi tempat makan. Pada aplikasi ini, rekomendasi yang diberikan didapatkan dari perhitungan menggunakan algoritma Slope One dan daftar tempat makan yang didapatkan berasal dari Google Places API. Algoritma Slope One membuat rekomendasi dengan menjumlahkan rating dari suatu tempat dengan rata-rata selisih suatu tempat dengan tempat lainnya. Aplikasi telah diuji coba pada pengguna menggunakan kuisioner yang dibuat berdasarkan kuisioner J.R. Lewis dengan kategori pertanyaan tingkat kegunaan aplikasi, kualitas informasi yang diberikan oleh aplikasi dan kualitas tampilan antar muka aplikasi. Hasil yang didapat dari uji coba melalui kuisioner adalah aplikasi berguna bagi user untuk menentukan pilihan tempat makan, kualitas informasi yang diberikan aplikasi baik dan tampilan antar muka dari aplikasi baik, yang berarti pengguna merasa puas dalam menggunakan aplikasi.
+
+Kata kunci
+Android, Google Places API, sistem rekomendasi, algoritma Slope One, restoran

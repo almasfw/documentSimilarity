@@ -1,0 +1,8 @@
+Sistem Pendukung Keputusan Dalam Menentukan Supplier Jeruk Pontianak Berbasis Fuzzy-AHP
+Salahuddin, Sri Hartati
+
+Abstrak
+Buah jeruk siam Pontianak atau sering disebut jeruk Pontianak sudah sangat popular di masyarakat. Buah jeruk ini juga sangat disukai banyak orang di Indonesia karena rasa buah yang manis sedikit asam dan menyegarkan. Persaingan industri supplier bahan baku jeruk semakin ketat.Tingginya kesukaan (preferensi) masyarakat tersebut menyebabkan tingginya permintaan buah jeruk Pontianak di pasaran hingga pada industri-industri makanan, industri farmasi dan obat tradisional menunjukan bahwa, penentuan supplier jeruk yang tepat merupakan salah satu faktor penting dalam menjamin kesuksesan perusahaan. Pengumpulan data yang mendukung penelitian ini dilakukan dengan mengambil sampel jeruk di masing-masing daerah sentral penghasil jeruk di Propinsi Kalimantan Barat. Dalam penelitian ini akan menganalisis lokasi supplier terbaik dalam menghasilkan bahan baku jeruk berdasarkan kriteria ketentuan mutu disesuaikan dengan SNI. Metode yang dipakai adalah Fuzzy-AHP dengan pembobotan non-additive.Hasil yang didapat menggunakan Fuzzy AHP non-additive dalam menentukan supplier jeruk Pontianak menunjukan bahwa, kriteria penampilan, kehigienisan, ukuran, pemasaran dan kerusakan, merupakan keritia utama dalam penentuan supplier jeruk yang bermutu . Dalam penilaian tingkat konsistensi menggunakan metode Fuzzy AHP non-additive dilakukan pada setiap level struktur hirarki mampu mengakomodir ketidak konsistenan dalam penilaian yang pada akhirnya, akan diperoleh supplier terbaik dengan kriteria-kriteria terpenting bagi perusahaan.
+
+Kata kunci
+Decision Support System, Fuzzy, Jeruk Pontianak, SNI,BSN

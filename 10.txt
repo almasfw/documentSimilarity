@@ -1,0 +1,10 @@
+Fuzzy AHP Non-Additive Pada Keputusan Pendirian Klinik Bersalin Daerah
+Awaluddin dan R. Wardoyo
+
+Abstrak
+Tingginya jumlah kematian ibu dan anak menempatkan Indonesia di rangking teratas kawasan Asia Tenggara. Penelitian yang dilakukan untuk mengurangi jumlah angka kematian ibu dan anak yaitu penyedian sarana dalam hal ini klinik
+bersalin disuatu daerah, demi tercapainya Milenium Development Goals (MDGs) di tahun 2015. Pengumpulan data yang mendukung penelitian ini, yaitu melakukan konsultasi dengan kepala Dinas Kesehatan Sulawesi Selatan sehingga dihasilkan kriteria-kriteria terbaik dalam pendirian klinik bersalin. Kriteria-kriteria tersebut disusun berdasarkan studi literatur, observasi, dan wawacara. Selanjutnya kriteria tersebut diberi penilaian perbandingan berpasangan dengan AHP untuk mencari bobot prior dengan skala penilaian antara 1 – 9, sedangkan untuk mencari bobot informasional dan upper excepted value
+menggunakan TFN (Triangular Fuzzy Number). Hasil yang didapat dengan menggunakan Fuzzy AHP non-additive dalam pendirian klinik bersalin menunjukkan bahwa kriteria prevalensi, penduduk, kesakitan, petugas, dan sarana merupakan kriteria utama dalam pendirian klinik besalin. Metode Fuzzy AHP non-additive didalam penilaian tingkat konsistensi dilakukan pada setiap level struktur hirarki dan mampu mengakomodir ketidakkonsistenan dalam penilaian.
+
+Kata Kunci
+AHP(Analitycal Hierarchy Process), non-additive, TFN (Triangular Fuzzy Number), upper excepted value.
